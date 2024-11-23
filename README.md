@@ -40,7 +40,9 @@ The project uses the **ISIC 2024 - Skin Cancer Detection** dataset, which contai
 
 ## Results
 - Naive Bayes and Decision Tree classifiers: Baseline metrics for classification.
-- Deep learning model: Achieved a significantly higher accuracy with detailed insights.
+- Deep learning model: Achieved a significantly higher accuracy with detailed insights i.e. 77%.
+
+![Screenshot from 2024-11-23 11-48-56](https://github.com/user-attachments/assets/30c373bf-3501-4971-a9a2-66c77d151d38)
 
 ## Tools & Technologies
 - **Programming Language**: Python
