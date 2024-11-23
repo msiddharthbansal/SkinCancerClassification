@@ -38,9 +38,6 @@ The project uses the **ISIC 2024 - Skin Cancer Detection** dataset, which contai
 ![Screenshot from 2024-11-23 11-48-05](https://github.com/user-attachments/assets/c88cc9dc-90b2-4231-8089-7bf7c5dd4183)
 ![Screenshot from 2024-11-23 11-48-41](https://github.com/user-attachments/assets/d5b20d84-a17a-4d8c-a5f5-7896309cd00b)
 
-5. **Deployment** *(optional)*:
-   - Creating a web interface for user-friendly lesion classification.
-
 ## Results
 - Naive Bayes and Decision Tree classifiers: Baseline metrics for classification.
 - Deep learning model: Achieved a significantly higher accuracy with detailed insights.
